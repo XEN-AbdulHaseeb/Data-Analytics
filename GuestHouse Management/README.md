@@ -39,6 +39,8 @@ We use SQL Server Studio 2019 as our data base manager.
 
 We use SQL to combine the yearly sheets and join the resultant combination with the meal cost table and the market segment table.
 
+Then we optimize our query for Power BI
+
 <pre>
 
 -- Combining tables for all years
