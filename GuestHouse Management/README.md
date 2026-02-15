@@ -69,7 +69,7 @@ AS revenue FROM hotels GROUP BY arrival_date_year,hotel ORDER BY arrival_date_ye
 
 We use various visualization tools like spark lines, trend lines, donut charts and tables to create our interactive dashboard which can be filtered based on reservation date, hotel type and country.
 
-You can download the dashboard using this [Link]()
+You can download the dashboard using this [Link](GuestHouse Management/Results/HotelStuff.pbix)
 
 
 
