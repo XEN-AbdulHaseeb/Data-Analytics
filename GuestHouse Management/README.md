@@ -2,6 +2,14 @@
 
 We have a dataset containing hotel data for 3 years, from 2018 to 2020
 
+## Tools Used
+
+SQL Server Studio 2019
+
+SQL
+
+Power BI
+
 ## Dataset preview
 Our excel file has 5 sheets, 2018, 2019, 2020, meal costs and market segments
 
@@ -20,7 +28,7 @@ Our excel file has 5 sheets, 2018, 2019, 2020, meal costs and market segments
 <img width="280" height="241" alt="Screenshot 2026-02-15 234311" src="https://github.com/user-attachments/assets/e5f9f06a-1472-4661-8608-85ccc43774cd" />
 
 
-Market segments applies discounts based on the market sector booking rooms
+Market segments applies discounts based on the market sector booking the rooms
 
 ## Requirements
 
@@ -69,7 +77,25 @@ AS revenue FROM hotels GROUP BY arrival_date_year,hotel ORDER BY arrival_date_ye
 
 We use various visualization tools like spark lines, trend lines, donut charts and tables to create our interactive dashboard which can be filtered based on reservation date, hotel type and country.
 
-You can download the dashboard using this [Link]
+You can download the dashboard from here [Link](Results/HotelStuff.pbix)
+
+### Dashboard preview
+
+![HotelStuff_page-0001](https://github.com/user-attachments/assets/b490244d-d4c3-4463-b550-844b0b43c5a5)
+
+This answers our proposed requirements
+
+#### Does the guest house revenues increase with time?
+
+Yes, the trend is positive
+
+#### Is additional parking space required?
+
+No, a fraction of parking spaces are utlized.
+
+#### Are there any useful trends in the data?
+
+Our resort hotels revenue peak in July, i.e during summer vacation, we can increase hotel staff to ensure guests are adequately accomodated. 
 
 
 
