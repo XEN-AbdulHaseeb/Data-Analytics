@@ -65,3 +65,6 @@ AS revenue FROM hotels GROUP BY arrival_date_year,hotel ORDER BY arrival_date_ye
 
 </pre>
 
+
+
+
