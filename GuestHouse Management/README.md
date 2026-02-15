@@ -3,7 +3,7 @@
 We have a dataset containing hotel data for 3 years, from 2018 to 2020
 
 ## Dataset preview
-Our excel file has 5 sheets, 2018,2019,2020,meal costs and market segments
+Our excel file has 5 sheets, 2018, 2019, 2020, meal costs and market segments
 
 ### Preview of 2018
 
@@ -64,6 +64,14 @@ SELECT arrival_date_year, hotel , SUM((stays_in_week_nights + stays_in_weekend_n
 AS revenue FROM hotels GROUP BY arrival_date_year,hotel ORDER BY arrival_date_year
 
 </pre>
+
+## Visualization (Power BI)
+
+We use various visualization tools like spark lines, trend lines, donut charts and tables to create our interactive dashboard which can be filtered based on reservation date, hotel type and country.
+
+You can download the dashboard using this [Link]()
+
+
 
 
 
