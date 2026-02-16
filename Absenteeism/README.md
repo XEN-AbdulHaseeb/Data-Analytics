@@ -124,7 +124,9 @@ You can download the dashboard from here [Link](./Report/AbsentWorkStuff.pbix)
 
 
 The group with the highest percentage of absenteeism proportional to employee count is employees with 2 children
+
 Followed by overweight employees
+
 Followed by Social Drinkers
 
 Surprisingly smokers had less absenteeism, even though it is miniscule, could be an issue with sample size, or that fact that nicotine does improve short term cognitive performance at the cost of
