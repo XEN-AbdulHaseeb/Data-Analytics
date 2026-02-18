@@ -34,7 +34,7 @@ Market segments applies discounts based on the market sector booking the rooms
 
 We try to answer the following questions:
 
-#### Does the guest house revenues increase with time?
+#### Does the guest house revenue increase with time?
 
 #### Is additional parking space required?
 
