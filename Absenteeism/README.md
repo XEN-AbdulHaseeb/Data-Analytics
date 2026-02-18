@@ -34,7 +34,7 @@ We try to achieve the following tasks
 
 #### Calculate the annual bonus to non-smokers
 
-#### Create a abesenteeism dashboard for HR
+#### Create a absenteeism dashboard for HR
 
 
 ## Data Preparation
