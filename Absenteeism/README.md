@@ -1,7 +1,7 @@
 # Absenteeism Analysis
 
 We have a dataset containing absenteeism data, reasons for absences and compensation data for each employee
-We have a budget of $983,221 to award bonuses for non-smokers
+We have a budget of $983,221 to award bonuses to non-smokers
 
 ## Tools Used
 
