@@ -44,6 +44,10 @@ Notebook
 
 ## Visualization (Looker Studio)
 
+Link to interactive report: https://lookerstudio.google.com/reporting/602acf98-b916-405b-8f28-914b8a21ec8d
+
+# Preview
+
 ![Turn_Over_Rate_Analysis_page-0001](https://github.com/user-attachments/assets/c7245c1c-3d79-442a-81d4-4be202c147b6)
 
 
