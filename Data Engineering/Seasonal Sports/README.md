@@ -4,8 +4,6 @@
 
 This project demonstrates an end-to-end data engineering pipeline built on the Azure cloud ecosystem using the Seasonal Sports dataset.
 
-It follows a two-part tutorial and extends it by refining datasets using Azure Synapse SQL to make them analytics- and visualization-ready.
-
 The pipeline covers:
 
 * Data ingestion from external sources
