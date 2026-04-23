@@ -43,4 +43,4 @@ This project analyzes the **Electric Vehicle (EV) market in the UAE** to evaluat
 
 ---
 
-**Author:** [Abdul Haseeb]  
+**Author:** Abdul Haseeb
